@@ -5,7 +5,7 @@ playground repo
 ### Basics
 main github commands
 
-### Branching
+## Branching
 - main branch
 - feature branch
 - hot fix
